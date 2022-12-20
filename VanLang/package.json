@@ -26,7 +26,7 @@
     "sails-hook-sockets": "^2.0.0",
     "sails-hook-validation": "^0.4.7",
     "sails-mssql": "^2.0.0",
-    "sails-mysql": "^1.0.1",
+    "sails-mysql": "^3.0.0",
     "skipper": "^0.8.7",
     "winston": "^3.2.1"
   },
